@@ -1,0 +1,28 @@
+name: Flannel Studios
+favicon: null
+layout_spectrum: 0.9301999183371663
+typography_spectrum: 0.575369754107669
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05367313022725284
+  lightness: 0.7411616344470531
+  saturation: 0.9475073087960482
+  rhythmicContrast: 0.5298466123640537
+purpose: []
